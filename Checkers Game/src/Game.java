@@ -682,13 +682,7 @@ public class Game extends JPanel implements Runnable, MouseListener {
 		            e1.printStackTrace();
 		        }
 			}	
-		   
-	
-																	   
-	
-				  
-	
-   
+
 		}
 		
 		// GAME STATE 7: CLICK TO CONTINUE END SCREEN
@@ -699,7 +693,6 @@ public class Game extends JPanel implements Runnable, MouseListener {
 				paintComponent(this.getGraphics());
 			}
 		}
-
 	}
 
 	// USELESS METHODS
