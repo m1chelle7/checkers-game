@@ -1,5 +1,4 @@
 /* Name: Michelle Xu & Jessica Ying
- * Date Due: June 20, 2022
  * Description: This programs runs a two-player checkers game using the mouse. The outcome can either be that one player wins or there is a tie.
  * Rules:
  * 1. Checkers is played by two opponents on opposite sides of the game board. 
