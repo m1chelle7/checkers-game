@@ -10,5 +10,9 @@
 8. Pieces can only move in one direction. If a player’s piece reaches the other side of the board, it is now a king piece that can move in both directions.
 9. If the game time reaches 100 minutes, the game is over.
 
+## Areas of Improvement
+- Animation
+- Leaderboard
+
 ## Authors
 Michelle Xu and Jessica Ying
